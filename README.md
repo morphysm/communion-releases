@@ -27,4 +27,4 @@ Ritual binaural experience. Available for Linux, Windows, and macOS.
 - Release to let everything fade
 - Press Esc to exit
 
-*A Morphysm project — A.C., Norrland XXVI*
+*A Morphysm project — J.K., Norrland XXVI*
