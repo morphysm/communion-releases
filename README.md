@@ -2,9 +2,9 @@
 Ritual binaural experience. Available for Linux, Windows, and macOS.
 
 ## Downloads
-- **Linux:** `Communion_Linux.zip`
-- **Windows:** `Communion_Windows.zip`
-- **Mac:** `Communion_Mac.zip`
+- **Linux:** [Communion_Linux.zip](Communion_Linux.zip)
+- **Windows:** [Communion_Windows.zip](Communion_Windows.zip)
+- **Mac:** [Communion_Mac.zip](Communion_Mac.zip)
 
 ## How to Run
 
