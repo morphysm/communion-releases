@@ -1,0 +1,23 @@
+# Unity generated
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+.vscode/
+
+# Build log
+build.log
+
+# Generated project files
+*.csproj
+*.slnx
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Folder artifacts
+Communion/
+"My project"/
