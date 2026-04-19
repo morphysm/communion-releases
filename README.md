@@ -2,9 +2,9 @@
 Ritual binaural experience. Available for Linux, Windows, and macOS.
 
 ## Downloads
-- **Linux:** [Communion_Linux.zip](Builds/Communion_Linux.zip)
-- **Windows:** [Communion_Windows.zip](Builds/Communion_Windows.zip)
-- **Mac:** [Communion_Mac.zip](Builds/Communion_Mac.zip)
+- **Linux:** [Communion_Linux.zip](https://github.com/morphysm/communion-releases/releases/latest/download/Communion_Linux.zip)
+- **Windows:** [Communion_Windows.zip](https://github.com/morphysm/communion-releases/releases/latest/download/Communion_Windows.zip)
+- **Mac:** [Communion_Mac.zip](https://github.com/morphysm/communion-releases/releases/latest/download/Communion_Mac.zip)
 
 ## How to Run
 
